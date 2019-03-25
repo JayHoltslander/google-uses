@@ -7,3 +7,6 @@ A list of third party tools that Google uses (or has used in the past) for thems
   * [Bootstrap](https://getbootstrap.com/)
   * [Materialize](https://materialize.com/)
 * **[LiquidCinema](https://liquidcinemavr.com/)** - VR Tools [for DayDream VR](https://liquidcinemavr.com/clients/)
+* **[Integral Ad Science](https://integralads.com/uk/news/google-selects-ias-brand-safety-viewability-preferred-measurement-partner/)**
+* **[eQuest](https://www.equest.com/)** - Applicant Tracking System [for Hire by G-Suite](https://www.globenewswire.com/news-release/2018/09/11/1569289/0/en/Google-Selects-eQuest-to-Provide-Job-Posting-Distribution-for-its-New-Applicant-Tracking-System-Hire-by-G-Suite.html).
+* **[Comscore](https://www.comscore.com)** - Brand Safety Measurement Provider. [Learn more](https://www.comscore.com/Insights/Press-Releases/2017/4/Google-Selects-comScore-as-Brand-Safety-Measurement-Provider?cs_edgescape_cc=CA)
