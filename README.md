@@ -3,7 +3,7 @@ A list of third party services, tools, and libraries that Google uses (or has us
 
 
 ## Services
-* **[Intellum](https://www.intellum.com/learning-delivery)** - LMS that powers Google's "Academy for Ads"
+* **[Intellum](https://www.intellum.com/learning-delivery)** - LMS that powers Google's "Academy for Ads" which itself is powered by Amazon. (Haha)
 * **[AddThis](https://www.addthis.com/)** - Social sharing tools
 * **[Lithium](https://www.lithium.com/products/online-communities/)** - Message board that powered the "Google Advertiser Community" forums for a time. (Migrated away July 2019) Still powers LocalGuidesConnect.com
   * [Bootstrap](https://getbootstrap.com/)
