@@ -2,7 +2,7 @@
 A list of third party services, tools, and libraries that Google uses (or has used in the past) for themselves.
 
 
-## Services
+## Third party services
 * **[Intellum](https://www.intellum.com/learning-delivery)** - LMS that powers Google's "Academy for Ads" which itself is powered by Amazon. (Haha)
 * **[AddThis](https://www.addthis.com/)** - Social sharing tools
 * **[Lithium](https://www.lithium.com/products/online-communities/)** - Message board that powered the "Google Advertiser Community" forums for a time. (Migrated away July 2019) Still powers LocalGuidesConnect.com
@@ -19,7 +19,7 @@ A list of third party services, tools, and libraries that Google uses (or has us
 * **[Qwiklabs](https://qwiklabs.com)** - A LMS that was originally intended for Amazon AWS training but was [acquired](https://www.crunchbase.com/organization/qwiklabs#section-overview) by Google parent company Alphabet and repurposed for Google Cloud training materials.
 * **[Zendesk](https://www.zendesk.com)** - Used for [CallJoy's support portal](https://calljoy.zendesk.com/). CallJoy is a product of Google's Area 120 which is “Google’s workshop for experimental projects”
 
-## Libraries
+## Third party libraries
 * **[Cropper.js](https://fengyuanchen.github.io/cropperjs/)** - Javascript library for cropping images. Used on the [Google I/O 2019](https://events.withgoogle.com/io2019/) site.
 * **[Swiper](http://www.idangero.us/swiper/)** - Mobile touch slider with hardware accelerated transitions.  Used on the [Google I/O 2019](https://events.withgoogle.com/io2019/) site.
 * **[What Input?](https://github.com/ten1seven/what-input)** - A global utility for tracking the current input method (mouse, keyboard or touch). Used on the [Google I/O 2019](https://events.withgoogle.com/io2019/) site.
@@ -27,5 +27,5 @@ A list of third party services, tools, and libraries that Google uses (or has us
 * **[Picturefill](http://scottjehl.github.io/picturefill/)** - Enables support for the ``<picture>`` element and associated features in browsers that do not yet support them. Used on the [Google I/O 2019](https://events.withgoogle.com/io2019/) site.
 * **[Lottie](http://airbnb.io/lottie/)** - Lottie is a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. Used on the [Google I/O 2019](https://events.withgoogle.com/io2019/) site.
 
-## Apps
+## Third party apps
 * **[Sketch](https://www.sketch.com/)** - SVG file creation.
