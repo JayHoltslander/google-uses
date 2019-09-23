@@ -16,6 +16,7 @@ A list of third party services, tools, and libraries that Google uses (or has us
 * **[cdn.js.delivr.net](https://www.jsdelivr.com/)** - A free, fast, and reliable Open Source CDN for npm and GitHub with the largest network and best performance among all CDNs. Serving more than 20 billion requests per month. Used on the [Google I/O 2019](https://events.withgoogle.com/io2019/) site.
 * **[Orchestrate](https://onlineapplications.net)** - Application management system [used by "Google for Education"](https://googleedu.onlineapplications.net/app/main/).
 * **[ProctorU](https://www.proctoru.com)** - Secure online exam platform [used by "Google for Education"](https://teachercenter.withgoogle.com/certification_faq).
+* **[Qwiklabs](https://qwiklabs.com)** - A LMS that was originally intended for Amazon AWS training but was [acquired](https://www.crunchbase.com/organization/qwiklabs#section-overview) by Google parent company Alphabet and repurposed for Google Cloud training materials.
 * **[Zendesk](https://www.zendesk.com)** - Used for [CallJoy's support portal](https://calljoy.zendesk.com/). CallJoy is a product of Google's Area 120 which is “Google’s workshop for experimental projects”
 
 ## Libraries
