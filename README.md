@@ -29,3 +29,6 @@ A list of third party services, tools, and libraries that Google uses (or has us
 
 ## Third party apps
 * **[Sketch](https://www.sketch.com/)** - SVG file creation.
+
+## Third party tools
+* **[11ty](https://www.11ty.dev)** - Static Site Generator. Used for web.dev
