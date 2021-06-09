@@ -18,7 +18,8 @@ A list of third party services, tools, and libraries that Google uses (or has us
 * **[Orchestrate](https://onlineapplications.net)** - Application management system [used by "Google for Education"](https://googleedu.onlineapplications.net/app/main/).
 * **[ProctorU](https://www.proctoru.com)** - Secure online exam platform [used by "Google for Education"](https://teachercenter.withgoogle.com/certification_faq).
 * **[Qwiklabs](https://qwiklabs.com)** - A LMS that was originally intended for Amazon AWS training but was [acquired](https://www.crunchbase.com/organization/qwiklabs#section-overview) by Google parent company Alphabet and repurposed for Google Cloud training materials.
-* **[Zendesk](https://www.zendesk.com)** - Used for [CallJoy's support portal](https://calljoy.zendesk.com/). CallJoy is a product of Google's Area 120 which is “Google’s workshop for experimental projects”
+* **[Salesforce Email Studio](https://www.salesforce.com/products/marketing-cloud/email-marketing/?d=exacttarget.com/&internal=true)** - Google uses Email Studio for powering the emails sent to users of the [Google Product Experts](https://productexperts.withgoogle.com/) program's message board.
+* **[Zendesk](https://www.zendesk.com)** - Used for [CallJoy's support portal](https://calljoy.zendesk.com/). CallJoy is a product of [Google's Area 120](https://area120.google.com/) which is “Google’s workshop for experimental projects”
 
 ## Third party libraries
 * **[Cropper.js](https://fengyuanchen.github.io/cropperjs/)** - Javascript library for cropping images. Used on the [Google I/O 2019](https://events.withgoogle.com/io2019/) site.
@@ -32,4 +33,4 @@ A list of third party services, tools, and libraries that Google uses (or has us
 * **[Sketch](https://www.sketch.com/)** - SVG file creation.
 
 ## Third party tools
-* **[11ty](https://www.11ty.dev)** - Static Site Generator. Used for web.dev
+* **[11ty](https://www.11ty.dev)** - Static Site Generator. Used for the [web.dev](https://web.dev/) site.
